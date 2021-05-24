@@ -1,0 +1,61 @@
+ul {
+    padding:30px;
+    margin:0px;
+    list-style-type:none;
+    }
+    .container {
+        text-align: center;
+    }
+   li {
+    margin-top: -25px;
+    float:left; 
+    border-left:1px solid rgb(214, 213, 218);
+    }
+   ul li a {
+      
+    display:block;
+    float:left;   
+    width:100px;
+    line-height:50px; 
+    background:rgb(34, 33, 33);
+    color:#DCDCDC;
+    text-decoration:none;
+    text-align:center;
+    height: 3rem;
+    }
+   ul li a:hover {
+    background:white;
+    color:rgb(34, 33, 33);
+    border: none;
+    }  
+#logo {
+  margin-top: -25px;
+  float: right;
+  width: 3rem;
+  height: 3rem;
+}
+  .nav-bar {
+      width: 100%;
+      background-color: rgb(34, 33, 33) ;
+  }
+  #home-top {
+    margin-left: -31px;
+
+  }
+  .welcome {
+    margin: auto;
+    margin-top: 3.5rem;
+    font-size: 4rem;
+    color: rgb(34, 33, 33);
+  }
+
+  .good-food {
+      color: rgb(255, 186, 58);
+  }
+ .collection {
+   width: 27%;
+   border: 5px solid black;
+ }
+ .collection img {
+   width: 10rem;
+ }
