@@ -53,9 +53,85 @@ ul {
       color: rgb(255, 186, 58);
   }
  .collection {
-   width: 27%;
-   border: 5px solid black;
+   width: 400px;
+  
  }
  .collection img {
-   width: 10rem;
+   width: 400px;
+   
  }
+ #food0 
+ {
+   margin-left: 500px;
+   
+ }
+ #food1 
+ {
+   margin-left: 500px;
+   
+ }
+ #food2
+ {
+   margin-left: 500px;
+   
+ }
+ #food3
+ {
+   margin-left: 500px;
+   
+ }
+ #food4
+ {
+  margin-left: 500px;
+ 
+ }
+ #food5
+ {
+   margin-left: 500px;
+   
+ }
+ #food6 
+ {
+   margin-left: 500px;
+
+ }
+ #food7 
+ {
+   margin-left: 500px;
+   
+ }
+ #food8 
+ {
+   margin-left: 500px;
+   
+ }
+
+.buttonn
+{
+ 
+    background-color: #0d0e0d;
+    border-radius: 50%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 1020px;
+   
+}
+.inputt
+{
+  width: 200px;
+  margin-left: 1000px;
+
+}
+
+h1
+{
+margin-left: 900px;
+margin-top: 100px;
+}
+

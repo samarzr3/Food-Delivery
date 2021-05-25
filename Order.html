@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="food.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order</title>
+    <div class="nav-bar">
+      <ul>
+          
+          <li id="home-top"><a href="home (2).html">Home</a></li>
+          <li><a href="Order.html">Order</a></li>
+          <li><a href="reclamation.html">Reclamation</a></li>
+         </ul>
+     </div>
+</head>
+<body style="background-image:url(https://www.craftyarts.co.uk/images/planetery-solar-system-3d-puzzle-p14422-47427_image.jpg); background-repeat: no-repeat;">
+    <div >
+      <h1>Please enter your adress here </h1>
+      <input class="inputt" type="text"  >
+<button class="buttonn"><p> confirm </p></button>
+
+    </div>
+  
+    <script>
+        $(document).ready(function(){
+  $(":button").css("background-color", "black");
+});
+ $(document).ready(function(){
+        $("p").click(function(){
+          alert("thank you for your order , you will recive your food in few minutes  .");
+        });
+      });
+    </script>
+    
+    <script src="food.js"></script>
+</body>
+</html>
